@@ -10,6 +10,10 @@ I will gradually build skills in:
 
 ## Learning Log
 
+### Day 10 - April 8, 2026 (Completed)
+- **Data Visualization**: Generated a comparison plot using `matplotlib` to verify the smoothing effect.
+- **Troubleshooting**: Fixed a `KeyError: 'pressure_smooth'` by ensuring the data processing cell runs before the plotting cell.
+
 ### Day 10 - April 7, 2026
 - Fixed the 'AttributeError' in the data cleaning step.
 - Learned how to use 'rolling mean' to smooth sensor data.
