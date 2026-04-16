@@ -1,9 +1,19 @@
-# Engineering System Data Analysis
+# CNC Spindle Sensor Data Analysis
 
-This project focuses on analyzing engineering sensor data using Python.
+Analysis of pressure and temperature sensor data 
+from a CNC machine tool spindle to detect anomalies 
+and support predictive maintenance.
 
-I will gradually build skills in:
-- data reading
-- data cleaning
-- visualization
-- anomaly detection
+
+## Learning Log
+### Day 11: Update project description for engineering context
+
+### Day 10 - April 8, 2026 (Completed)
+- **Data Visualization**: Generated a comparison plot using `matplotlib` to verify the smoothing effect.
+- **Troubleshooting**: Fixed a `KeyError: 'pressure_smooth'` by ensuring the data processing cell runs before the plotting cell.
+
+### Day 10 - April 7, 2026
+- Fixed the 'AttributeError' in the data cleaning step.
+- Learned how to use 'rolling mean' to smooth sensor data.
+- Understood the difference between 'limit' and 'threshold' in functions.
+- Tomorrow's goal: Plot the comparison graph. 
