@@ -6,6 +6,14 @@ and support predictive maintenance.
 
 
 ## Learning Log
+
+### Day 12 - 2026-04-16
+- Generated CNC sensor data with 100 data points (spindle_pressure, spindle_temp, vibration)
+- Added 3 manual anomalies at row 30, 55, 78
+- Created 3-variable overview plot: cnc_overview.png
+- Learned: Boolean indexing, np.random.normal parameters
+- First time using Git Bash to push from command line
+- 
 ### Day 11: Update project description for engineering context
 
 ### Day 10 - April 8, 2026 (Completed)
