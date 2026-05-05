@@ -7,6 +7,11 @@ and support predictive maintenance.
 
 ## Learning Log
 
+## Engineering Context
+- Pressure spike (>2σ): indicates potential tool wear
+- Temperature spike (>2σ): indicates thermal overload
+- Vibration spike (>2σ): indicates mechanical fault
+
 ### Day 12 - 2026-04-16
 - Generated CNC sensor data with 100 data points (spindle_pressure, spindle_temp, vibration)
 - Added 3 manual anomalies at row 30, 55, 78
