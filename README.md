@@ -7,6 +7,8 @@ and support predictive maintenance.
 
 ## Learning Log
 
+### Day 20: Linear regression intro with sklearn (cnc_ml.ipynb)
+
 ## Engineering Context
 - Pressure spike (>2σ): indicates potential tool wear
 - Temperature spike (>2σ): indicates thermal overload
