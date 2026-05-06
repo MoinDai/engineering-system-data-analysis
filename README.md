@@ -7,6 +7,7 @@ and support predictive maintenance.
 
 ## Learning Log
 
+### Day 21: Add train/test split and model evaluation
 ### Day 20: Linear regression intro with sklearn (cnc_ml.ipynb)
 
 ### Engineering Context
