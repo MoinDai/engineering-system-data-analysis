@@ -6,6 +6,7 @@ and support predictive maintenance.
 
 
 ## Learning Log
+### Day 24 :Add GridSearchCV, learning curve, and residual plot
 ### Day 23: Add cross validation, feature importance plot, and StandardScaler
 ### Day 22: Add Random Forest and feature importance
 ### Day 21: Add train/test split and model evaluation
