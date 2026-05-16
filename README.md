@@ -6,6 +6,7 @@ and support predictive maintenance.
 
 
 ## Learning Log
+### Day 26: Overfitting analysis with max_depth tuning
 ### Day 25: Add sklearn Pipeline with StandardScaler and RandomForest
 ### Day 24 :Add GridSearchCV, learning curve, and residual plot
 ### Day 23: Add cross validation, feature importance plot, and StandardScaler
