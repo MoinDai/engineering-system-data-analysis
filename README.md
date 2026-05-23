@@ -6,6 +6,7 @@ and support predictive maintenance.
 
 
 ## Learning Log
+### Day 28: Add time series split and rolling mean
 ### Day 27: Add Isolation Forest anomaly detection
 ### Day 26: Overfitting analysis with max_depth tuning
 ### Day 25: Add sklearn Pipeline with StandardScaler and RandomForest
