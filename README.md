@@ -6,6 +6,7 @@ and support predictive maintenance.
 
 
 ## Learning Log
+### Day 29：Add rolling mean and sigma-based anomaly detection, window=4, 1.5-sigma
 ### Day 28: Add time series split and rolling mean
 ### Day 27: Add Isolation Forest anomaly detection
 ### Day 26: Overfitting analysis with max_depth tuning
