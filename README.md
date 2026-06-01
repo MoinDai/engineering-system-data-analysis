@@ -6,6 +6,7 @@ and support predictive maintenance.
 
 
 ## Learning Log
+### Day 33: Add predictive maintenance with RUL prediction
 ### Day 32: Add correlation analysis and heatmap
 ### Day 31: Add multi-sensor data and Isolation Forest anomaly detection
 ### Day 30: Add feature engineering with rolling mean, std, and diff
