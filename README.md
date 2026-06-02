@@ -6,6 +6,7 @@ and support predictive maintenance.
 
 
 ## Learning Log
+### Day 34：Add RL dispatch agent with real 2024 German electricity market data（RL）
 ### Day 33: Add predictive maintenance with RUL prediction
 ### Day 32: Add correlation analysis and heatmap
 ### Day 31: Add multi-sensor data and Isolation Forest anomaly detection
