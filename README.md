@@ -5,7 +5,7 @@ from a CNC machine tool spindle to detect anomalies
 and support predictive maintenance.
 
 
-## Learning Log
+## Learning Log（*Note: I started this project in early 2026. The "Day X" labels indicate the number of update sessions, not consecutive calendar days — I update intermittently rather than daily.*）
 ### Day 34：Add RL dispatch agent with real 2024 German electricity market data（RL）
 ### Day 33: Add predictive maintenance with RUL prediction
 ### Day 32: Add correlation analysis and heatmap
